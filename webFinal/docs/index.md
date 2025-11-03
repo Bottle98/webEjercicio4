@@ -47,3 +47,9 @@ flowchart LR
   A --> D["Servicios de Directorio"]
   D --> E["Protocolo LDAP"]
 ```
+
+---
+
+En definitiva, un sistema operativo de red constituye **la base organizativa y funcional** de cualquier infraestructura informática moderna.
+
+A lo largo de esta unidad aprenderás cómo se estructuran las redes, qué papel cumple cada elemento y cómo se administra de forma segura y eficiente.

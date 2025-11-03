@@ -57,3 +57,9 @@ graph LR
         G2 --- C
     end
 ```
+
+---
+
+## En resumen
+
+**Las redes entre iguales (P2P)** son útiles para entornos pequeños donde se busca **sencillez y bajo coste**, pero presentan grandes limitaciones en **control, seguridad y escalabilidad**. Por eso, en entornos profesionales se suele optar por **modelos cliente-servidor**, que se estudian en el siguiente apartado.
