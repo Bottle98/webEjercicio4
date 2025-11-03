@@ -15,3 +15,10 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - toc:
       permalink: true
+
+nav:
+  - Inicio: index.md
+  - Redes entre iguales (P2P): redes-entre-iguales.md
+  - Estructura Cliente-Servidor: cliente-servidor.md
+  - Servicios de Directorio: servicios-directorio.md
+  - Protocolo LDAP: protocolo-ldap.md
