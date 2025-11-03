@@ -53,3 +53,19 @@ flowchart LR
 En definitiva, un sistema operativo de red constituye **la base organizativa y funcional** de cualquier infraestructura informática moderna.
 
 A lo largo de esta unidad aprenderás cómo se estructuran las redes, qué papel cumple cada elemento y cómo se administra de forma segura y eficiente.
+
+---
+
+<div style="margin-top: 2em; text-align: center;">
+  <button onclick="window.print()" style="
+      background-color: var(--md-primary-fg-color);
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 6px;
+      font-size: 1em;
+      cursor: pointer;
+  ">
+    📄 Descargar en PDF
+  </button>
+</div>

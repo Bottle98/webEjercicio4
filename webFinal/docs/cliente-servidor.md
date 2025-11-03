@@ -78,3 +78,19 @@ graph TD
 ## En resumen
 
 El modelo cliente-servidor permite una red más organizada, segura y escalable, pero cuando se multiplican los servidores, la gestión se complica. La solución a este problema llegará con los servicios de directorio, que centralizan toda la información de usuarios y recursos en una única base de datos.
+
+---
+
+<div style="margin-top: 2em; text-align: center;">
+  <button onclick="window.print()" style="
+      background-color: var(--md-primary-fg-color);
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 6px;
+      font-size: 1em;
+      cursor: pointer;
+  ">
+    📄 Descargar en PDF
+  </button>
+</div>

@@ -97,3 +97,19 @@ graph TD
 El **protocolo LDAP** es esencial para la administración de redes modernas. Permite acceder, autenticar y modificar información en los servicios de directorio de forma estandarizada y segura.
 
 Gracias a LDAP, los administradores pueden gestionar de manera centralizada a los usuarios y recursos de toda la red.
+
+---
+
+<div style="margin-top: 2em; text-align: center;">
+  <button onclick="window.print()" style="
+      background-color: var(--md-primary-fg-color);
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 6px;
+      font-size: 1em;
+      cursor: pointer;
+  ">
+    📄 Descargar en PDF
+  </button>
+</div>

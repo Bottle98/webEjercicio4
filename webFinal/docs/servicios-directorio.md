@@ -90,3 +90,19 @@ Los **servicios de directorio** simplifican la administración de redes al centr
 Gracias a ellos, se pueden aplicar políticas de seguridad, gestionar accesos y mantener la coherencia de los datos en toda la organización.
 
 El siguiente paso será estudiar cómo el **protocolo LDAP** hace posible la comunicación entre clientes y servidores dentro de estos servicios.
+
+---
+
+<div style="margin-top: 2em; text-align: center;">
+  <button onclick="window.print()" style="
+      background-color: var(--md-primary-fg-color);
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 6px;
+      font-size: 1em;
+      cursor: pointer;
+  ">
+    📄 Descargar en PDF
+  </button>
+</div>
